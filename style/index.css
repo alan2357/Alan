@@ -20,7 +20,7 @@ body {
 }
 
 .header-title {
-    color: red;
+    color: #fa0f00;
     text-transform: capitalize;
     font-weight: 600;
     margin-top: .5rem;
@@ -65,7 +65,7 @@ body {
     background-color: #00a7e2;
 }
 
-.nav-btn-after-effect {
+.nav-btn-after-effects {
     background-color: #620294;
 }
 
